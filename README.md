@@ -1,18 +1,6 @@
 <!--
 **gnyani/gnyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Gnyani</h1>
 <h3 align="center">A passionate developer from India 🇮🇳. Solving problems through code. <br />
 Currently, working remotely as a Senior Software Engineer.</h3>
@@ -25,11 +13,11 @@ Currently, working remotely as a Senior Software Engineer.</h3>
 
 - 🔭 I’m currently working on [Realadvisor](https://realadvisor.ch)
 
-- 👯 I’m looking to collaborate on [Hasura](https://github.com/hasura/graphql-engine)
+- 👯 Sometimes I lend my hand on [Hasura](https://github.com/hasura/graphql-engine)
 
 - 👨‍💻 My pride [https://sourcerer.io/gnyani](https://sourcerer.io/gnyani)
 
-- 💬 Ask me about **React, Node, Postgres, Web scraping**
+- 💬 Ask me about **React, Node, Postgres, Web scraping, Google cloud**
 
 - 🌱 I’m currently learning React Native & TypeScript
 
