@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Gnyani</h1>
-<h3 align="center">A passionate developer from India 🇮🇳. Solving problems through code. <br />
+<h3 align="center">An experienced developer from India 🇮🇳. Solving problems through code. <br />
 Currently, working remotely as a Senior Software Engineer.</h3>
 <p align="center">
 <a href="https://twitter.com/gnyanendranath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gnyanendranath" height="20" width="20" /></a>
