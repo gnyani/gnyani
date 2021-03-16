@@ -12,7 +12,6 @@ Currently, working remotely as a Senior Software Engineer.</h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnyani" alt="gnyani" /> </p>
 
-- 🔭 I’m currently working on [Realadvisor](https://realadvisor.ch)
 
 - 👯 Sometimes I lend my hand on [Hasura](https://github.com/hasura/graphql-engine)
 
