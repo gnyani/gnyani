@@ -12,11 +12,6 @@ Currently, working remotely as a Senior Software Engineer.</h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnyani" alt="gnyani" /> </p>
 
-
-- 👯 Sometimes I lend my hand on [Hasura](https://github.com/hasura/graphql-engine)
-
-- 👨‍💻 My pride [https://sourcerer.io/gnyani](https://sourcerer.io/gnyani)
-
 - 💬 Ask me about **React, Node, Postgres, Web scraping, Google cloud**
 
 - 🌱 I’m currently learning React Native & TypeScript
