@@ -3,13 +3,12 @@
 Senior Software Engineer based in London 🇬🇧 (originally from India 🇮🇳)<br/>
 Architecting scalable systems, building AI-enabled workflows, and solving problems through code.
 </h3>
-
 <p align="center">
+<a href="https://gnyani.ai/meet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="portfolio" height="20" width="20" /></a>
 <a href="https://twitter.com/gnyanendranath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gnyanendranath" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/gnyanendranath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gnyanendranath" height="20" width="20" /></a>
 <a href="https://instagram.com/gnyani_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gnyani_" height="20" width="20" /></a>
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnyani" alt="gnyani" /> </p>
 
 - 💻 9+ years of experience in **full-stack development, data engineering, and cloud-native systems**
