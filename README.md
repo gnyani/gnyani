@@ -11,6 +11,7 @@ Architecting scalable systems, building AI-enabled workflows, and solving proble
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnyani" alt="gnyani" /> </p>
 
+- 🌐 Portfolio: **[gnyani.ai/meet](https://gnyani.ai/meet)**
 - 💻 9+ years of experience in **full-stack development, data engineering, and cloud-native systems**
 - 🚀 Scaled e-commerce platforms with **Node.js, TypeScript, React, Python and Shopify**
 - 🛠️ Architected microservices & event-driven systems with **Postgres, MongoDB, DynamoDB, Kafka, Snowflake**
