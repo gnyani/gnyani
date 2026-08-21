@@ -4,6 +4,10 @@ Senior Software Engineer based in London 🇬🇧 (originally from India 🇮�
 Architecting scalable systems, building AI-enabled workflows, and solving problems through code.
 </h3>
 <p align="center">
+<strong><a href="https://nonines.dev/ping">Nines</a></strong> is an arcade that only opens when GitHub, Claude, or Cursor actually goes down.<br/>
+<a href="https://nonines.dev/ping">Get pinged when it opens</a>
+</p>
+<p align="center">
 <a href="https://gnyani.ai/meet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="portfolio" height="20" width="20" /></a>
 <a href="https://twitter.com/gnyanendranath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gnyanendranath" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/gnyanendranath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gnyanendranath" height="20" width="20" /></a>
@@ -32,5 +36,5 @@ Architecting scalable systems, building AI-enabled workflows, and solving proble
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
 </p>
